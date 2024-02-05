@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mseewak@gmail.com**
 
-- 📝 I regularly write articles on [https://medium.com/@jhonwayne](https://medium.com/@jhonwayne)
+- 📝 I sometimes write articles on [https://medium.com/@jhonwayne](https://medium.com/@jhonwayne)
 
 - ⚡ Fun fact **i am a humanbeing**
 
