@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mseewak@gmail.com**
 
-- ⚡ Fun fact **i am a humanbeing**
+- ⚡ Fun fact **i am a humanbeing**, ** I love ASMR videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
