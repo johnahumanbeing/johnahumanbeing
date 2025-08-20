@@ -88,13 +88,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/johnahumanbeing/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/johnahumanbeing/johnahumanbeing/output/snake.svg" alt="Snake animation" />
-
-###
